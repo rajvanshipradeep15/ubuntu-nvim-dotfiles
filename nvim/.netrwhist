@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/var/www/html/crf/sites/all/modules/aol_custom/sao-sync'
+let g:netrw_dirhist_7='/var/www/html/crf/sites/all/modules/aol_custom'
+let g:netrw_dirhist_6='/var/www/html/crf/sites/all/modules'
+let g:netrw_dirhist_5='/var/www/html/crf/sites/all'
+let g:netrw_dirhist_4='/var/www/html/crf/sites'
+let g:netrw_dirhist_3='/var/www/html/crf'
+let g:netrw_dirhist_2='/home/taol/code/custom-system-applications/dotfiles/kitty'
+let g:netrw_dirhist_1='/home/taol/code/custom-system-applications/dotfiles'
