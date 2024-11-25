@@ -193,6 +193,12 @@ use({
   end,
 })
 
+-- Git commands.
+use({
+  'tpope/vim-fugitive',
+  requires = 'tpope/vim-rhubarb',
+})
+
 -- Automatically set up your configuration after cloning packer.nvim
 -- Put this at the end after all plugins
 if packer_bootstrap then
